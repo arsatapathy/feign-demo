@@ -1,1 +1,1 @@
-- Simple <b> Feign Demo </b> project
+- This is a simple <b> Feign Demo </b> project
